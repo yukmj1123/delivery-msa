@@ -6,11 +6,10 @@ import java.util.*;
 
 
 @Data
-public class OrderRejected extends AbstractEvent {
+public class OrderPlaced extends AbstractEvent {
 
     private Long id;
-    private String status;
-    private String food id;
-    private String order id;
+    private String foodid;
     private String options;
+    private String adress;
 }

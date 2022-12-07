@@ -22,6 +22,7 @@
         data: () => ({
             headers: [
                 { text: "id", value: "id" },
+                { text: "status", value: "status" },
             ],
             mypage : [],
         }),
