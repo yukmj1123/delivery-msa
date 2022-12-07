@@ -1,16 +1,18 @@
 package deliverymsa.domain;
 
+import deliverymsa.domain.*;
 import deliverymsa.infra.AbstractEvent;
-import lombok.Data;
+import lombok.*;
 import java.util.*;
-
-
 @Data
+@ToString
 public class OrderRejected extends AbstractEvent {
 
     private Long id;
     private String status;
-    private String food id;
-    private String order id;
+    private String foodId;
+    private String orderId;
     private String options;
 }
+
+
