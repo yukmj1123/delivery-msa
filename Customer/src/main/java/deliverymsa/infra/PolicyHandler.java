@@ -39,6 +39,8 @@ public class PolicyHandler{
         
 
         // Sample Logic //
+        Review.notify(event);
+        
 
         
 
@@ -57,6 +59,8 @@ public class PolicyHandler{
         
 
         // Sample Logic //
+        Review.notify(event);
+        
 
         
 
@@ -75,6 +79,8 @@ public class PolicyHandler{
         
 
         // Sample Logic //
+        Review.notify(event);
+        
 
         
 
@@ -93,6 +99,8 @@ public class PolicyHandler{
         
 
         // Sample Logic //
+        Review.notify(event);
+        
 
         
 
@@ -111,6 +119,8 @@ public class PolicyHandler{
         
 
         // Sample Logic //
+        Review.notify(event);
+        
 
         
 

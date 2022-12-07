@@ -54,6 +54,111 @@ public class Review  {
 
 
 
+    public static void notify(CookedStarted cookedStarted){
+
+        /** Example 1:  new item 
+        Review review = new Review();
+        repository().save(review);
+
+        */
+
+        /** Example 2:  finding and process
+        
+        repository().findById(cookedStarted.get???()).ifPresent(review->{
+            
+            review // do something
+            repository().save(review);
+
+
+         });
+        */
+
+        
+    }
+    public static void notify(CookFinished cookFinished){
+
+        /** Example 1:  new item 
+        Review review = new Review();
+        repository().save(review);
+
+        */
+
+        /** Example 2:  finding and process
+        
+        repository().findById(cookFinished.get???()).ifPresent(review->{
+            
+            review // do something
+            repository().save(review);
+
+
+         });
+        */
+
+        
+    }
+    public static void notify(OrderRejected orderRejected){
+
+        /** Example 1:  new item 
+        Review review = new Review();
+        repository().save(review);
+
+        */
+
+        /** Example 2:  finding and process
+        
+        repository().findById(orderRejected.get???()).ifPresent(review->{
+            
+            review // do something
+            repository().save(review);
+
+
+         });
+        */
+
+        
+    }
+    public static void notify(OrderAccepted orderAccepted){
+
+        /** Example 1:  new item 
+        Review review = new Review();
+        repository().save(review);
+
+        */
+
+        /** Example 2:  finding and process
+        
+        repository().findById(orderAccepted.get???()).ifPresent(review->{
+            
+            review // do something
+            repository().save(review);
+
+
+         });
+        */
+
+        
+    }
+    public static void notify(Picked picked){
+
+        /** Example 1:  new item 
+        Review review = new Review();
+        repository().save(review);
+
+        */
+
+        /** Example 2:  finding and process
+        
+        repository().findById(picked.get???()).ifPresent(review->{
+            
+            review // do something
+            repository().save(review);
+
+
+         });
+        */
+
+        
+    }
 
 
 }
