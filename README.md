@@ -61,23 +61,23 @@ orders로 post 요청을 보내면 OrderPlaced에서 pay에 있는 pay커맨드�
 아래는 orders post요청으로 3개의 테이블에 데이터가 들어간 것을 확인한 증적이다.
 
 ### 요청
-![image]![saga 패턴1](https://user-images.githubusercontent.com/80758607/206377519-eb51d896-6ffd-45d6-a1a7-be69ef3ed860.png)
+![saga 패턴1](https://user-images.githubusercontent.com/80758607/206377519-eb51d896-6ffd-45d6-a1a7-be69ef3ed860.png)
 
 
 ### 결과
-![image]![saga 패턴2](https://user-images.githubusercontent.com/80758607/206377560-42a2faa5-15d8-4eec-8f1c-eca1cc9fd4fe.png)
+![saga 패턴2](https://user-images.githubusercontent.com/80758607/206377560-42a2faa5-15d8-4eec-8f1c-eca1cc9fd4fe.png)
 
 
 ## 2. CQRS 
-![image]![CQRS8081](https://user-images.githubusercontent.com/80758607/206378157-1cab8840-0ddd-40ab-b8fa-e0b25687658f.png)
+![CQRS8081](https://user-images.githubusercontent.com/80758607/206378157-1cab8840-0ddd-40ab-b8fa-e0b25687658f.png)
 
-![image]![CQRS 8084](https://user-images.githubusercontent.com/80758607/206378185-f477644a-b930-4db2-a4c7-3cd0d3c98633.png)
+![CQRS 8084](https://user-images.githubusercontent.com/80758607/206378185-f477644a-b930-4db2-a4c7-3cd0d3c98633.png)
 
 
 ## 3. Request / Response
 
-![image]![화면 캡처 2022-12-07 190252](https://user-images.githubusercontent.com/80758607/206378256-3dffe258-acda-401d-8f15-b767e446fa45.png)
+![화면 캡처 2022-12-07 190252](https://user-images.githubusercontent.com/80758607/206378256-3dffe258-acda-401d-8f15-b767e446fa45.png)
 
 
 ## 4. Gateway
-![image]![게이트웨이](https://user-images.githubusercontent.com/80758607/206591733-d12be552-88c3-4d45-8a13-bc188b1169db.png)
+![게이트웨이](https://user-images.githubusercontent.com/80758607/206591733-d12be552-88c3-4d45-8a13-bc188b1169db.png)
