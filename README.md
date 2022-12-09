@@ -30,7 +30,7 @@
 
 
 ## Model
-![image]![msa](https://user-images.githubusercontent.com/80758607/206376850-4045670f-c8be-4531-a418-13b71d21c3d9.png)
+![msa](https://user-images.githubusercontent.com/80758607/206376850-4045670f-c8be-4531-a418-13b71d21c3d9.png)
 
 
 
